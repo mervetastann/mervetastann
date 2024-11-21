@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://www.codeglo.com/blog/wp-content/uploads/2021/05/blog-6-img2.jpg" width="400" />
 </p>
-
 <h1 align="center">Hi 👋, I'm Merve</h1>
 <h3 align="center">Software Test Engineer</h3>
 
